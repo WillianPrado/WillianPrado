@@ -1,15 +1,18 @@
 ### Hi there 👋
 
+ - 🔭 I’m currently working on Infinity Brasil | Full stack.
+ - 🌱 I’m currently learning Angular 12
+ - 💬 Ask me about object orientation end SOLID
 <!--
 **WillianPrado/WillianPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Infinity Brasil | Full stack.
-- 🌱 I’m currently learning Angular 12
+ 🔭 I’m currently working on Infinity Brasil | Full stack.
+ 🌱 I’m currently learning Angular 12
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about object orientation end SOLID
+ 💬 Ask me about object orientation end SOLID
 -->
 
 ### Best technologies
